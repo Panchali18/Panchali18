@@ -1,17 +1,18 @@
 ## Hi, I'm Panchali 👋
 
-**With 7+ years across sales, go-to-market and AI delivery, I take AI from the first business case through to build.** I work between business stakeholders and engineering teams on Generative AI, RAG and agentic solutions, and I'm most useful in the stretch where a promising pilot has to become something people actually use.
+**With 7+ years in go-to-market and AI delivery, including building an AWS partner's data, cloud and AI practice, I take AI from the first business case through to build.** I work between business stakeholders and engineering teams on Generative AI, RAG and agentic solutions, and I'm most useful when a promising pilot needs to become something people use every day.
 
-### What I do
+### What I bring
 
-- **Discovery and requirements:** I run discovery with stakeholders across countries, map how work happens today, and write functional specifications for LLM and RAG workflows, including what data they can use and who can see what.
-- **Data readiness:** I assess the quality of the data a solution depends on before it's built, since that's where many AI projects quietly fail.
-- **Prioritisation and investment cases:** I build the use-case prioritisation framework, roadmap and build-vs-buy cost model that leaders use to decide where to invest.
-- **Delivery with engineering:** I set feature priorities, manage the backlog and keep business and engineering aligned on scope through the build.
+- **Requirements engineering can build from:** I turn a business problem into user stories, workflows and functional specifications for LLM and RAG solutions, including what data they use and who can see what.
+- **Data risks found early:** I check whether the data a solution depends on is good enough before the build starts, since that's where many AI projects quietly fail.
+- **Investment decisions leaders can act on:** I build use-case prioritisation, roadmaps and build-vs-buy cost models that show where to invest first.
+- **Business and engineering on the same page:** I set feature priorities, manage the backlog and keep scope agreed through the build.
+- **A buyer's view of AI:** years of selling data and AI solutions to regulated financial services clients mean I know the questions a business asks before it commits.
 
 ### Where I've done it
 
-- **In-house, in manufacturing:** I'm an AI Business Analyst on the AI programme of a European manufacturer, where I write the requirements and investment cases for LLM and RAG workflows on the Microsoft stack.
+- **In-house, in manufacturing:** I'm an AI Business Analyst on a European manufacturer's AI programme, where I cover everything before build: use-case and business analysis, current and future-state workflows, and user stories for LLM and RAG solutions on the Microsoft stack.
 - **Go-to-market, at an AWS partner:** For four years I worked on the commercial side of an AWS partner's data, cloud and AI practice. With solutions architects and engineers, I took offerings through AWS Foundational Technical Review and onto AWS Marketplace, including LLM-based document data extraction, a RAG platform for enterprise knowledge bases, a multi-agent assistant for audit and compliance, and a Generative AI research assistant for asset managers. I ran executive discovery workshops with financial-services clients and co-sold with AWS account teams.
 - **Sales and business development:** Where my career started, and why I build the business case before the solution.
 
@@ -52,7 +53,7 @@ Each repo includes the requirements, key decisions and trade-offs, and the build
 
 ### 🎓 Credentials
 
-- AWS Certified AI Practitioner (Agentic AI and Amazon Bedrock specialisations)
+- AWS Certified AI Practitioner (Agentic AI specialisation)
 - MBA (First Class Honours), AI-focused dissertation
 - BE in Information Technology
 
