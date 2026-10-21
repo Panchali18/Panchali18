@@ -12,7 +12,7 @@
 
 ### Where I've done it
 
-- **In-house, in manufacturing:** I'm an AI Business Analyst on a European manufacturer's AI programme, where I cover everything before build: use-case and business analysis, current and future-state workflows, and user stories for LLM and RAG solutions on the Microsoft stack.
+- **In-house, in manufacturing:** I'm an AI Business Analyst on a European manufacturer's AI programme. I work with sales, customer service and operations teams on use-case and business analysis, current and future-state workflows, and user stories for LLM and RAG solutions on the Microsoft stack, then work with the developers through the build and rollout.
 - **Go-to-market, at an AWS partner:** For four years I worked on the commercial side of an AWS partner's data, cloud and AI practice. With solutions architects and engineers, I took offerings through AWS Foundational Technical Review and onto AWS Marketplace, including LLM-based document data extraction, a RAG platform for enterprise knowledge bases, a multi-agent assistant for audit and compliance, and a Generative AI research assistant for asset managers. I ran executive discovery workshops with financial-services clients and co-sold with AWS account teams.
 - **Sales and business development:** Where my career started, and why I build the business case before the solution.
 
@@ -33,9 +33,9 @@ Along the way I choose the models, design the guardrails, test against real case
 | Project | Problem it solves | Built with | Status |
 |---|---|---|---|
 | **[FitProof](https://github.com/Panchali18/jd-analyzer)** | Job seekers can't quickly see how well their CV fits a role. FitProof reads a job description and CV together, quotes the CV line behind every match, and flags missing must-haves. A recruiter mode, designed around the EU AI Act, hides personal details before the AI screens a CV. | Python, Streamlit, Amazon Bedrock (Claude), Microsoft Presidio | 🟢 v1 complete · [Live demo](https://fitproof-panchali.streamlit.app/) |
-| **[Late-Payment Chaser Agent](https://github.com/Panchali18/late-payment-chaser-agent)** | Small businesses lose cash to late invoices because it's hard to keep track of what's due, what's overdue and who has already promised to pay. This agent drafts context-aware reminders and escalates sensitive cases; the owner approves every one before it's sent. A prompt revision raised correct tool use from 87.5% to 95.8% and removed invented content. | Copilot Studio, Power Automate, Dataverse, Power Apps | 🟡 v1 working in a sandbox |
-| **[AI Insights Agent](https://github.com/Panchali18/ai-insights-agents)** | Keeping up with AI is noisy. This agent collects AI news and practitioner pain points, ranks them, and drafts sourced notes that a separate critic step checks. Nothing is published automatically; I review every draft. | Python, Gemini API | 🟡 In build |
-| **[Inbox Triage with RAG](https://github.com/Panchali18/inbox-triage-rag)** | A small accounting practice's shared inbox mixes client queries, deadlines and admin, and someone has to sort and route each one by hand. This tool classifies each enquiry, matches it to the client, and drafts a reply grounded in the practice's own documents. | Amazon Bedrock Knowledge Bases, S3 Vectors, AWS Lambda, DynamoDB, Lovable | 🟡 In build |
+| **[Inbox Triage with RAG](https://github.com/Panchali18/inbox-triage-rag)** | A small accounting practice's shared inbox mixes client queries, deadlines and admin, and someone has to sort and route each one by hand. This tool classifies each enquiry, matches it to the client, and drafts a reply grounded in the practice's own documents for a person to approve. Compared with pasting all the documents into the prompt, RAG grounded 97% of draft facts against 89%, at less than half the cost per email. | Amazon Bedrock Knowledge Bases, S3 Vectors, AWS Lambda, DynamoDB, Lovable | 🟢 Built and evaluated · [Demo](https://nore-valley-inbox-triage.lovable.app) |
+| **[Late-Payment Chaser Agent](https://github.com/Panchali18/late-payment-chaser-agent)** | Small businesses lose cash to late invoices because it's hard to keep track of what's due, what's overdue and who has already promised to pay. This agent drafts context-aware reminders and escalates sensitive cases; the owner approves every one before it's sent. A prompt revision raised correct tool use from 87.5% to 95.8% and removed invented content. | Copilot Studio, Power Automate, Dataverse, Power Apps | 🟢 v1 complete in a sandbox |
+| **[AI Explainer for Businesses](https://github.com/Panchali18/ai-insights-agents)** | Mid-sized businesses are connecting AI to their email, documents and client data, often without a plan or a neutral view. Each episode is a short illustrated conversation showing what a set-up does, where the data goes, the good and the bad, and the questions to ask before going ahead. | Planned | ⚪ Scope defined |
 
 Each repo includes the requirements, key decisions and trade-offs, and the build history.
 
@@ -61,4 +61,4 @@ Each repo includes the requirements, key decisions and trade-offs, and the build
 
 ### 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/panchalidas) · Open to AI consulting, implementation, solutions and AI product roles in Ireland, the wider EU and the UAE.
+[LinkedIn](https://www.linkedin.com/in/panchalidas) · Open to AI consulting, implementation, solutions and AI product roles across EMEA and in Singapore.
